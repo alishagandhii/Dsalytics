@@ -33,9 +33,7 @@ DSAlytics is a modern web application designed to help users efficiently manage 
 
 ## Demo
 
-Frontend is live and accessible [here](https://pranavdixiit.github.io/Recallit).
-
-Backend API is deployed at [https://recallit.onrender.com](https://recallit.onrender.com).
+Site is live and accessible [here](https://alishagandhii.github.io/Dsalytics/).
 
 ---
 
@@ -62,8 +60,8 @@ Backend API is deployed at [https://recallit.onrender.com](https://recallit.onre
 
 1. Clone the repo:
     ```
-    git clone https://github.com/pranavdixiit/Recallit.git
-    cd Recallit/server
+    git clone https://github.com/alishagandhii/Dsalytics.git
+    cd Dsalytics/server
     ```
 
 2. Install dependencies:
@@ -89,7 +87,7 @@ Backend API is deployed at [https://recallit.onrender.com](https://recallit.onre
 
 ## Frontend Setup
 
-The frontend is hosted on GitHub Pages and can be found [here](https://pranavdixiit.github.io/Recallit).
+The frontend is hosted on GitHub Pages and can be found [here](https://alishagandhii.github.io/Dsalytics/).
 
 To run locally:
 
