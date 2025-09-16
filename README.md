@@ -16,7 +16,6 @@ DSAlytics is a modern web application designed to help users efficiently manage 
 - [Environment Variables](#environment-variables)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ---
 
