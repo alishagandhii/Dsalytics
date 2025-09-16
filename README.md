@@ -1,6 +1,6 @@
-# Recallit
+# DSAlytics
 
-Recallit is a modern web application designed to help users efficiently manage and review coding problems and topics. Built with a Node.js backend and a React frontend hosted on GitHub Pages, Recallit offers a smooth user experience for tracking study progress.
+DSAlytics is a modern web application designed to help users efficiently manage and review coding problems and topics. Built with a Node.js backend and a React frontend hosted on GitHub Pages, Recallit offers a smooth user experience for tracking study progress.
 
 ---
 
@@ -153,15 +153,5 @@ Contributions are welcome! Please open an issue or submit a pull request with yo
 
 [MIT](LICENSE)
 
----
 
-## Contact
-
-Developed by Pranav Dixit  
-Email: pranavdixit03890@gmail.com  
-GitHub: [pranavdixiit](https://github.com/pranavdixiit)
-
----
-
-*Thank you for checking out Recallit! Keep coding and keep improving.*  
 
